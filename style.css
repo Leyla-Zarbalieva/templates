@@ -1,0 +1,25 @@
+body {
+  background-color: #210E09;
+}
+.nav-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 30px;
+  padding-left: 312px;
+  padding-right: 303px;
+}
+.nav-list__frame {
+  display: flex;
+  color: white;
+  font-size: 14px;
+}
+.nav-list__button {
+  background-color: #210E09;
+  color: white;
+  border-radius: 5px;
+  border: 2px;
+  border-color: #D5621D;
+  width: 188px;
+  height: 51px;
+}
