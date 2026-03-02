@@ -1,5 +1,7 @@
 body {
   background-color: #210E09;
+  width: 1920px;
+  height: 4750px;
 }
 .nav-list {
   display: flex;
@@ -22,4 +24,20 @@ body {
   border-color: #D5621D;
   width: 188px;
   height: 51px;
+}
+.first-screen {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 55px;
+  padding-left: 312px;
+  padding-right: 303px;
+}
+.first-screen__left {
+  height: 540px;
+}
+.first-screen__right_img {
+  background-color: #D5621D1A;
+  height: 502px;
+  width: 416px;
 }
